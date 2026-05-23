@@ -56,8 +56,8 @@ Basic C programs for logic building and problem solving.
 
 ## 📫 Connect With Me
 
-* 🌍 GitHub: [https://github.com/prodevamit](https://github.com/YOUR_USERNAME)
-* 📧 Email: [amithalder2102006@gmail.com](mailto:your-email@example.com)
+* 🌍 GitHub: [https://github.com/prodevamit](https://github.com/prodevamit)
+* 📧 Email: [amithalder2102006@gmail.com](mailto:amithalder2102006@gmail.com)
 
 ---
 
