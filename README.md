@@ -58,7 +58,7 @@ Basic C programs for logic building and problem solving.
 
 * 🌍 GitHub: [https://github.com/prodevamit](https://github.com/prodevamit)
 * 📧 Email: [amithalder2102006@gmail.com](mailto:amithalder2102006@gmail.com)
-
+* 📸 Instagram: [https://www.instagram.com/_heyitsamit_07/](https://www.instagram.com/_heyitsamit_07/)
 ---
 
 ## ✨ Fun Fact
